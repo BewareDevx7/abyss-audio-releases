@@ -1,60 +1,28 @@
-<?xml version="1.0" standalone="yes"?>
-<!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
--->
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Abyss Audio</title>
         <item>
-            <title>1.3.4</title>
-            <pubDate>Tue, 18 Aug 2026 23:32:01 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Tue, 18 Aug 2026 23:43:52 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Abyss Audio 1.3.4
+            <description sparkle:format="markdown"><![CDATA[# Abyss Audio 1.0.0
 
-- Moved downloads and updates to their own public Abyss release channel.
-- Kept the Abyss Forums project and app source private.
-- Improved the reliability of automatic and manual update checks.
+- First public release of Abyss Audio for macOS.
+- Control Mac output, input, and the volume of individual applications.
+- Mix longer audio in Abyss Deck with seeking, looping, speed, and EQ controls.
+- Play short soundboard clips through speakers or a configured virtual microphone.
+- Record audio, monitor your microphone, and shape your voice in real time.
+- Added a compact menu-bar controller and four colour themes.
+- Added private, signed updates with a short changelog before installation.
 ]]></description>
-            <enclosure url="https://bewaredevx7.github.io/abyss-audio-releases/Abyss-Audio-1.3.4.zip" length="2762930" type="application/octet-stream" sparkle:edSignature="YwswfNWBWiLiJaC0lmZ298n4yVV+X++dNku455apWVZIyK8SpWtgWk+vRE04M/URJx/NX6Nt30GB2zFhlYDhDg=="/>
-        </item>
-        <item>
-            <title>1.3.3</title>
-            <pubDate>Tue, 18 Aug 2026 21:40:44 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Abyss Audio 1.3.3
-
-- Added bass, mid, and treble EQ to every active-app volume row.
-- Added Bluetooth split output: keep normal Mac audio on Bluetooth while routing one selected app to Built-in Speakers.
-- Added an optional Bluetooth idle-sleep guard, with clear macOS lid-sleep limits.
-- Fixed Abyss Deck output selection and added useful messages when a saved source file is missing.
-- Stopped repeated System Audio permission checks after setup has already been approved.
-- Added a Restart Mac or Later choice after BlackHole driver installation.
-- Made signed update checks automatic on launch and daily, with critical-release support for incompatible old builds.
-]]></description>
-            <enclosure url="https://bewaredevx7.github.io/abyss-audio-releases/Abyss-Audio-1.3.3.zip" length="2762927" type="application/octet-stream" sparkle:edSignature="EEo3TPA1Y9swmfxdaWsaj/4fuf8EhuNcPoEKsS/yOgW57Ip5hCPqGwJlQrqzztMbZjNd970gSzUb/NCyo7UYDQ=="/>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Tue, 18 Aug 2026 20:17:34 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Abyss Audio 1.3.2
-
-- Added simple, secure in-app updates with a small release-notes window.
-- Added automatic update checks and an optional background-download setting.
-- Added **Check for Updates…** to the app menu and Settings.
-- Prepared signed update archives and a straightforward publishing workflow for future releases.
-]]></description>
-            <enclosure url="https://bewaredevx7.github.io/abyss-audio-releases/Abyss-Audio-1.3.2.zip" length="2626579" type="application/octet-stream" sparkle:edSignature="RXp3gDDpN+O89EilfJr65rXo/+xs2mOe5LT2T6tE156/2oXckOHi8N70trNvpvfGUJidYkX+Re8HrSmUguUyBA=="/>
+            <enclosure url="https://bewaredevx7.github.io/abyss-audio-releases/Abyss-Audio-1.0.0.zip" length="2768159" type="application/octet-stream" sparkle:edSignature="D5LiANsK+lDFpHRhbRt59g9z7j5jerX77bf6yi/FcXQFd77G08E6TIlM8V989KOGHVAeLTnbmWfM18gCEHo2CQ=="></enclosure>
         </item>
     </channel>
-</rss>
-<!-- sparkle-signatures:
-edSignature: gO1z1zawI/Qamvaf/bfqCRBROi06tmgXmEDoyCdPrTcuuICEJDXIFUYR7HChQNwWgqx3KL1BwlmqALhhek4+Bg==
-length: 3666
+</rss><!-- sparkle-signatures:
+edSignature: Rt4tSV6YpYLKwWr4c4AyRtTZbbOZcyLdbRSYrsM/q4EuzyhPVlRGJ9RS/qhiNGbIQNQ0CrcE/X9DzoM91Ps9DA==
+length: 1633
 -->

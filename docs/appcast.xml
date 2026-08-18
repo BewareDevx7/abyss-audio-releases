@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Abyss Audio</title>
         <item>
+            <title>1.3.4</title>
+            <pubDate>Tue, 18 Aug 2026 23:32:01 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Abyss Audio 1.3.4
+
+- Moved downloads and updates to their own public Abyss release channel.
+- Kept the Abyss Forums project and app source private.
+- Improved the reliability of automatic and manual update checks.
+]]></description>
+            <enclosure url="https://bewaredevx7.github.io/abyss-audio-releases/Abyss-Audio-1.3.4.zip" length="2762930" type="application/octet-stream" sparkle:edSignature="YwswfNWBWiLiJaC0lmZ298n4yVV+X++dNku455apWVZIyK8SpWtgWk+vRE04M/URJx/NX6Nt30GB2zFhlYDhDg=="/>
+        </item>
+        <item>
             <title>1.3.3</title>
             <pubDate>Tue, 18 Aug 2026 21:40:44 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -41,6 +55,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: y7D9pLPo1mKhKUTjlse4RpaE86JgRrvDvPB7o9HlKQRBvzQLzwKNftSc1tcI6Zyq0kqal8THRHLqy2IeM6MTCg==
-length: 2778
+edSignature: gO1z1zawI/Qamvaf/bfqCRBROi06tmgXmEDoyCdPrTcuuICEJDXIFUYR7HChQNwWgqx3KL1BwlmqALhhek4+Bg==
+length: 3666
 -->
